@@ -20,5 +20,5 @@ This project involves automated web scraping to collect podcast transcripts from
     </div>
     <div class="section">
         <h2>✅ Data Storage</h2>
-        <p>The extracted transcripts and their respective publication dates are saved in a CSV file (<code>transcripts2.csv</code>) for further analysis.</p>
+        <p>The extracted transcripts and their respective publication dates are saved in a CSV file (<code>transcripts.csv</code>) for further analysis.</p>
     </div>
